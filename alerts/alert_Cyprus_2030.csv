@@ -1,0 +1,2 @@
+timestamp,country,region,year,predicted_disaster,confidence,alert_level,tree_prediction,nn_prediction,tree_confidence,nn_confidence,temperature,humidity,wind_speed,weather
+2025-10-15T14:40:12.669254,Cyprus,Western Asia,2030,Storm,65.66,MEDIUM,Earthquake,Storm,70.1,61.21,17.41,60,1.11,Clear

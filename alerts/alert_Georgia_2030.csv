@@ -1,0 +1,2 @@
+timestamp,country,region,year,predicted_disaster,confidence,alert_level,tree_prediction,nn_prediction,tree_confidence,nn_confidence,temperature,humidity,wind_speed,weather
+2025-10-15T14:40:12.558684,Georgia,Western Asia,2030,Earthquake,66.35,MEDIUM,Earthquake,Earthquake,45.53,87.17,14.85,88,2.57,Clear

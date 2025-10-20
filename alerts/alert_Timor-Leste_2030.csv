@@ -1,0 +1,2 @@
+timestamp,country,region,year,predicted_disaster,confidence,alert_level,tree_prediction,nn_prediction,tree_confidence,nn_confidence,temperature,humidity,wind_speed,weather
+2025-10-15T14:40:18.608083,Timor-Leste,South-Eastern Asia,2030,Storm,68.37,MEDIUM,Earthquake,Epidemic,48.69,88.05,26.6,49,1.95,Clouds

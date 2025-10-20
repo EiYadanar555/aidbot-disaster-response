@@ -1,0 +1,2 @@
+timestamp,country,region,year,predicted_disaster,confidence,alert_level,tree_prediction,nn_prediction,tree_confidence,nn_confidence,temperature,humidity,wind_speed,weather
+2025-10-15T14:40:18.065676,Japan,Eastern Asia,2030,Storm,74.59,MEDIUM,Earthquake,Storm,60.46,88.73,19.79,79,6.69,Clouds

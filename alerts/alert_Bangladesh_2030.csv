@@ -1,0 +1,2 @@
+timestamp,country,region,year,predicted_disaster,confidence,alert_level,tree_prediction,nn_prediction,tree_confidence,nn_confidence,temperature,humidity,wind_speed,weather
+2025-10-15T14:40:12.831194,Bangladesh,Southern Asia,2030,Flood,55.45,LOW,Storm,Epidemic,56.97,53.93,31.52,56,3.36,Clear

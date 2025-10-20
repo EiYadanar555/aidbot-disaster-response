@@ -1,0 +1,2 @@
+timestamp,country,region,year,predicted_disaster,confidence,alert_level,tree_prediction,nn_prediction,tree_confidence,nn_confidence,temperature,humidity,wind_speed,weather
+2025-10-15T14:40:18.082857,Kyrgyzstan,Central Asia,2030,Earthquake,70.4,MEDIUM,Epidemic,Earthquake,75.32,65.48,7.28,21,5.62,Clear

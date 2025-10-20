@@ -1,0 +1,2 @@
+timestamp,country,region,year,predicted_disaster,confidence,alert_level,tree_prediction,nn_prediction,tree_confidence,nn_confidence,temperature,humidity,wind_speed,weather
+2025-10-19T01:23:49.618158,Maldives,Southern Asia,2028,Storm,51.92,LOW,Storm,Flood,54.2,49.64,28.08,80,7.54,Clouds

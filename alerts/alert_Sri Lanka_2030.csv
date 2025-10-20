@@ -1,0 +1,2 @@
+timestamp,country,region,year,predicted_disaster,confidence,alert_level,tree_prediction,nn_prediction,tree_confidence,nn_confidence,temperature,humidity,wind_speed,weather
+2025-10-15T14:40:18.100115,Sri Lanka,Southern Asia,2030,Storm,65.14,MEDIUM,Drought,Epidemic,49.13,81.14,26.61,71,2.27,Clouds

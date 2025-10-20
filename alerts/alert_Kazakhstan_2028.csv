@@ -1,0 +1,2 @@
+timestamp,country,region,year,predicted_disaster,confidence,alert_level,tree_prediction,nn_prediction,tree_confidence,nn_confidence,temperature,humidity,wind_speed,weather
+2025-10-19T01:23:49.963906,Kazakhstan,Central Asia,2028,Storm,61.27,MEDIUM,Epidemic,Earthquake,58.76,63.78,4.23,58,3.51,Clear

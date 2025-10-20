@@ -1,0 +1,2 @@
+timestamp,country,region,year,predicted_disaster,confidence,alert_level,tree_prediction,nn_prediction,tree_confidence,nn_confidence,temperature,humidity,wind_speed,weather
+2025-10-19T01:23:49.577649,Syrian Arab Republic,Western Asia,2028,Storm,66.37,MEDIUM,Drought,Flood,53.95,78.78,17.64,44,4.14,Clear

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="AidBot icon">
+  <defs>
+    <clipPath id="clipCircle">
+      <circle cx="256" cy="256" r="226"/>
+    </clipPath>
+  </defs>
+  <!-- White disc -->
+  <circle cx="256" cy="256" r="226" fill="#ffffff"/>
+  <!-- Black ring -->
+  <circle cx="256" cy="256" r="226" fill="none" stroke="#000000" stroke-width="20"/>
+  <!-- Red cross -->
+  <g fill="#e23131" clip-path="url(#clipCircle)">
+    <!-- vertical bar -->
+    <rect x="214" y="115" width="84" height="282" rx="6" ry="6"/>
+    <!-- horizontal bar -->
+    <rect x="115" y="214" width="282" height="84" rx="6" ry="6"/>
+  </g>
+</svg>

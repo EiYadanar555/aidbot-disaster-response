@@ -1,0 +1,2 @@
+timestamp,country,region,year,predicted_disaster,confidence,alert_level,tree_prediction,nn_prediction,tree_confidence,nn_confidence,temperature,humidity,wind_speed,weather
+2025-10-19T01:23:49.361465,Thailand,South-Eastern Asia,2028,Storm,74.33,MEDIUM,Earthquake,Flood,88.9,59.75,27.75,93,2.18,Clouds

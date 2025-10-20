@@ -1,0 +1,2 @@
+timestamp,country,region,year,predicted_disaster,confidence,alert_level,tree_prediction,nn_prediction,tree_confidence,nn_confidence,temperature,humidity,wind_speed,weather
+2025-10-15T14:40:18.230823,Malaysia,South-Eastern Asia,2030,Drought,79.71,MEDIUM,Earthquake,Flood,73.2,86.21,25.66,83,1.6,Clouds

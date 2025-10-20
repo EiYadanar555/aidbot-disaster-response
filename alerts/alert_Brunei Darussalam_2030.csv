@@ -1,0 +1,2 @@
+timestamp,country,region,year,predicted_disaster,confidence,alert_level,tree_prediction,nn_prediction,tree_confidence,nn_confidence,temperature,humidity,wind_speed,weather
+2025-10-15T14:39:08.884884,Brunei Darussalam,South-Eastern Asia,2030,Earthquake,79.69,MEDIUM,Storm,Epidemic,76.54,82.84,30.36,62,2.09,Clouds

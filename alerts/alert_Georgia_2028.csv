@@ -1,0 +1,2 @@
+timestamp,country,region,year,predicted_disaster,confidence,alert_level,tree_prediction,nn_prediction,tree_confidence,nn_confidence,temperature,humidity,wind_speed,weather
+2025-10-19T01:23:49.554476,Georgia,Western Asia,2028,Storm,77.09,MEDIUM,Flood,Earthquake,69.79,84.38,26.62,40,4.63,Haze

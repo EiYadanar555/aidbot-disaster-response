@@ -1,0 +1,2 @@
+timestamp,year,region,country,predicted_type,confidence,alert_level
+2025-10-13T15:17:23.718250,2028,Asia,Japan,Earthquake,0.8680126002409376,HIGH

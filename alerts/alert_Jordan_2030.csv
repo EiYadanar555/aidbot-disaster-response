@@ -1,0 +1,2 @@
+timestamp,country,region,year,predicted_disaster,confidence,alert_level,tree_prediction,nn_prediction,tree_confidence,nn_confidence,temperature,humidity,wind_speed,weather
+2025-10-15T14:40:08.788448,Jordan,Western Asia,2030,Epidemic,67.84,MEDIUM,Flood,Epidemic,46.13,89.54,18.31,54,0.17,Clear

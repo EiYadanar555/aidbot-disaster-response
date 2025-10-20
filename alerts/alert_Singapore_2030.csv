@@ -1,0 +1,2 @@
+timestamp,country,region,year,predicted_disaster,confidence,alert_level,tree_prediction,nn_prediction,tree_confidence,nn_confidence,temperature,humidity,wind_speed,weather
+2025-10-18T21:44:44.831175,Singapore,South-Eastern Asia,2030,Earthquake,53.02,LOW,Earthquake,Earthquake,55.53,50.52,30.04,71,2.06,Rain

@@ -1,0 +1,2 @@
+timestamp,country,region,year,predicted_disaster,confidence,alert_level,tree_prediction,nn_prediction,tree_confidence,nn_confidence,temperature,humidity,wind_speed,weather
+2025-10-15T21:39:21.219593,Thailand,South-Eastern Asia,2026,Landslide,62.87,MEDIUM,Epidemic,Earthquake,65.45,60.29,26.69,91,1.9,Rain

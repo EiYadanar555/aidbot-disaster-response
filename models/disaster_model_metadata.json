@@ -1,0 +1,37 @@
+{
+  "feature_columns": [
+    "Year",
+    "Year_Sin",
+    "Year_Cos",
+    "Decade",
+    "Years_Since_2000",
+    "Latitude",
+    "Longitude",
+    "Lat_Abs",
+    "Tropical_Zone",
+    "Temperate_Zone",
+    "Polar_Zone",
+    "Coastal",
+    "Region_Disaster_Frequency",
+    "Country_Disaster_Frequency",
+    "Region_Encoded",
+    "Country_Encoded"
+  ],
+  "disaster_types": [
+    "Drought",
+    "Earthquake",
+    "Epidemic",
+    "Extreme temperature ",
+    "Flood",
+    "Glacial lake outburst",
+    "Insect infestation",
+    "Landslide",
+    "Mass movement (dry)",
+    "Storm",
+    "Volcanic activity",
+    "Wildfire"
+  ],
+  "created_at": "2025-10-13T14:52:31.301186",
+  "num_features": 16,
+  "num_classes": 12
+}

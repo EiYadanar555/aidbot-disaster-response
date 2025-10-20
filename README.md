@@ -1,1 +1,0 @@
-# aidbot-disaster-response

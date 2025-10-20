@@ -1,0 +1,2 @@
+timestamp,country,region,year,predicted_disaster,confidence,alert_level,tree_prediction,nn_prediction,tree_confidence,nn_confidence,temperature,humidity,wind_speed,weather
+2025-10-15T14:40:17.373256,Nepal,Southern Asia,2030,Flood,62.8,MEDIUM,Epidemic,Earthquake,42.83,82.77,25.68,42,1.18,Clear

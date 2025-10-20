@@ -1,0 +1,2 @@
+timestamp,country,region,year,predicted_disaster,confidence,alert_level,tree_prediction,nn_prediction,tree_confidence,nn_confidence,temperature,humidity,wind_speed,weather
+2025-10-15T14:40:17.852082,Indonesia,South-Eastern Asia,2030,Storm,49.31,LOW,Epidemic,Drought,51.32,47.3,26.14,42,4.1,Clouds

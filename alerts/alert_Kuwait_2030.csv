@@ -1,0 +1,2 @@
+timestamp,country,region,year,predicted_disaster,confidence,alert_level,tree_prediction,nn_prediction,tree_confidence,nn_confidence,temperature,humidity,wind_speed,weather
+2025-10-15T14:40:08.911852,Kuwait,Western Asia,2030,Drought,77.55,MEDIUM,Flood,Earthquake,72.54,82.56,29.88,25,6.37,Clear

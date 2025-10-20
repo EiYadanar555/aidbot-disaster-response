@@ -1,0 +1,2 @@
+timestamp,country,region,year,predicted_disaster,confidence,alert_level,tree_prediction,nn_prediction,tree_confidence,nn_confidence,temperature,humidity,wind_speed,weather
+2025-10-13T23:46:24.070635,Myanmar,South-Eastern Asia,2045,Earthquake,76.99,MEDIUM,Epidemic,Flood,65.51,88.46,18.67,93,0.8,Clear

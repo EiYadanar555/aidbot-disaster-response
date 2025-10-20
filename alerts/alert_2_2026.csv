@@ -1,0 +1,2 @@
+timestamp,country,region,year,predicted_disaster,confidence,alert_level,tree_prediction,nn_prediction,tree_confidence,nn_confidence,temperature,humidity,wind_speed,weather
+2025-10-18T22:06:37.230559,2,4,2026,1.0,49.76,LOW,Flood,Drought,47.6,51.93,,,,

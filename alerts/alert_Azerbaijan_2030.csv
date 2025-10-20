@@ -1,0 +1,2 @@
+timestamp,country,region,year,predicted_disaster,confidence,alert_level,tree_prediction,nn_prediction,tree_confidence,nn_confidence,temperature,humidity,wind_speed,weather
+2025-10-15T14:40:02.939419,Azerbaijan,Western Asia,2030,Earthquake,66.64,MEDIUM,Earthquake,Storm,55.55,77.74,17.71,67,2.05,Clouds

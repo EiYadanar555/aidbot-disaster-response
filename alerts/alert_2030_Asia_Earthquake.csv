@@ -1,0 +1,2 @@
+timestamp,year,region,country,predicted_type,confidence,alert_level
+2025-10-13T14:52:44.478149,2030,Asia,Myanmar,Earthquake,0.8965636313862685,HIGH

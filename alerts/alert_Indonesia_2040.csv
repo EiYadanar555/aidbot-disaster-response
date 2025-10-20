@@ -1,0 +1,2 @@
+timestamp,country,region,year,predicted_disaster,confidence,alert_level,tree_prediction,nn_prediction,tree_confidence,nn_confidence,temperature,humidity,wind_speed,weather
+2025-10-17T00:23:06.587764,Indonesia,South-Eastern Asia,2040,Mass movement (dry),82.06,HIGH,Flood,Epidemic,78.69,85.42,21.03,96,1.31,Clouds
