@@ -1,0 +1,82 @@
+{
+  "model_name": "Decision Tree + Neural Network Ensemble",
+  "generated_date": "2025-10-19",
+  "primary_model": "decision_tree",
+  "precision": 0.996,
+  "recall": 0.996,
+  "f1": 0.996,
+  "roc_auc": 1.000,
+  "dataset": {
+    "name": "Asia Disasters 1900-2021",
+    "total_records": 14710,
+    "train_records": 1652,
+    "test_records": 181,
+    "train_split": 0.89,
+    "test_split": 0.11,
+    "disaster_types": 9
+  },
+  "models": {
+    "decision_tree": {
+      "name": "Decision Tree Classifier",
+      "precision": 0.996,
+      "recall": 0.996,
+      "f1": 0.996,
+      "roc_auc": 1.000,
+      "mcc": 0.995,
+      "ca": 0.996,
+      "parameters": {
+        "min_instances_in_leaves": 2,
+        "max_depth": 20,
+        "stop_when_majority_reaches": 1.0
+      }
+    },
+    "neural_network": {
+      "name": "Multi-Layer Perceptron (MLP)",
+      "precision": 0.745,
+      "recall": 0.697,
+      "f1": 0.703,
+      "roc_auc": 0.966,
+      "mcc": 0.664,
+      "ca": 0.697,
+      "parameters": {
+        "neurons_hidden_layers": "25, 72",
+        "activation": "ReLu",
+        "solver": "Adam",
+        "regularization": 0.0001,
+        "max_iterations": 1195
+      }
+    }
+  },
+  "ensemble_strategy": {
+    "description": "Dual-model ensemble for disaster prediction",
+    "primary_model": "Decision Tree (high precision baseline)",
+    "secondary_model": "Neural Network (complex pattern recognition)",
+    "weighted_accuracy": 0.85,
+    "use_case": "Tree for high-confidence predictions; NN for edge cases"
+  },
+  "feature_importance": {
+    "top_features": [
+      "Year",
+      "Region", 
+      "Country",
+      "Latitude",
+      "Longitude",
+      "Total Deaths",
+      "Total Affected",
+      "Disaster Magnitude"
+    ]
+  },
+  "performance_notes": {
+    "strengths": "Excellent precision on common disasters (Flood, Storm, Earthquake)",
+    "limitations": "Lower recall on rare events (Volcanic activity, Glacial lake outburst)",
+    "recommendation": "Use ensemble voting for production deployment"
+  },
+  "deployment": {
+    "models_saved": [
+      "models/tree_model.pkcls",
+      "models/nn_model.pkcls"
+    ],
+    "format": "Orange .pkcls (pickle)",
+    "fallback": "joblib format for Python-only deployment"
+  }
+}
